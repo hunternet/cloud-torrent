@@ -1,1 +1,1 @@
-web: cloud-torrents
+web: cloud-torrent
